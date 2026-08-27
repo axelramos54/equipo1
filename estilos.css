@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #f1f5f9;
+    min-height: 100%;
+}
+
+
+
+.imagenyamil{
+    height: 33rem;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
